@@ -23,3 +23,5 @@
   - 第四期：敏捷开发在考拉理财
 
 
+### 参与组织者
+[@kaolalicai](https://github.com/no7dw/enterpriseTechParty/blob/master/AboutKaola.md)
