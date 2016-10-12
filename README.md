@@ -25,3 +25,10 @@
 
 ### 参与组织者
 [@kaolalicai](https://github.com/no7dw/enterpriseTechParty/blob/master/AboutKaola.md)
+
+### 加入
+    联系微信：no7dwdavid
+
+### 提问
+    请提交issue    
+
